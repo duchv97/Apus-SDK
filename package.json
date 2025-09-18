@@ -1,0 +1,16 @@
+{
+  "name": "com.apus.sdk",
+  "version": "1.0.0",
+  "displayName": "Apus SDK",
+  "description": "The plugin for advertising and tracking",
+  "unity": "2022.3",
+  "unityRelease": "62f1",
+  "dependencies": {
+ },
+  "author": {
+    "name": "Apus Developer",
+    "email": "developer@apusgame.vn",
+    "url": "https://apusgame.vn"
+  }
+}
+

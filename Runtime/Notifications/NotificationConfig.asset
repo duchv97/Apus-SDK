@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c23c4826d30e0ef419ea270bcc2eb94d, type: 3}
+  m_Name: NotificationConfig
+  m_EditorClassIdentifier: 
+  _notiContents:
+  - Tittle: "\U0001F579\uFE0F New Challenge: Speed Organize!"
+    Des: How fast can you tidy up? Test your skills in this exciting mini-game!
+  - Tittle: "\U0001F3C6 You're Closer to Master Organizer!"
+    Des: Level up and unlock new tools to perfect your organizing skills.
+  - Tittle: "\U0001F9F9 Make it Perfect, Make it Satisfying!"
+    Des: Every item in its place. Can you make it look flawless?
+  - Tittle: "\U0001F381 Daily Gift Alert!"
+    Des: "\U0001F381 Daily Gift Alert!"
+  - Tittle: "\U0001F9D8 Relax, Organize, Repeat!"
+    Des: Need a quick mental break? Dive into Satisroom and feel the stress melt
+      away.
+  - Tittle: "\U0001F9F9 Satisfy Your Inner Perfectionist!"
+    Des: Arrange, align, and feel the soothing satisfaction of perfection.
+  - Tittle: "\u23F0 Beat the Clock!"
+    Des: Challenge yourself with time-based puzzles and test your speed!
+  - Tittle: "\U0001F9FA Smooth & Satisfying!"
+    Des: The most relaxing organizing experience is just a tap away.
+  - Tittle: "\U0001F389 Celebrate Your Success!"
+    Des: "You\u2019ve completed a milestone! See what new challenges await."

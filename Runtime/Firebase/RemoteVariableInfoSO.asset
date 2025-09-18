@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b0a794772f0fd47ae4212168631365, type: 3}
+  m_Name: RemoteVariableInfoSO
+  m_EditorClassIdentifier: 
+  _remoteVariableInfos:
+  - Name: open_ad_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: inter_ad_on_off_user_organic
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: inter_ad_on_off_user_paid
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: mrec_ad_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: banner_ad_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: native_ad_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: offline_play_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: rating_filter_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: inter_ad_capping_time_user_organic
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 30
+    DefaultValueString: 
+  - Name: inter_ad_capping_time_user_paid
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 35
+    DefaultValueString: 
+  - Name: open_ad_capping_time
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 1
+    DefaultValueString: 
+  - Name: time_pause_to_show_AOA
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: time_refresh_banner
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 30
+    DefaultValueString: NONE
+  - Name: OPEN_AD_UNIT_ID
+    TypeVariable: 3
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: ca-app-pub-2913496970595341/3772994591
+  - Name: NATIVE_AD_UNIT_ID
+    TypeVariable: 3
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: ca-app-pub-2913496970595341/6508364379
+  - Name: MAX_MREC_AD_UNIT_ID
+    TypeVariable: 3
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 7d8220b33bdc9b4f
+  - Name: time_auto_close_collap_banner
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 6
+    DefaultValueString: 
+  - Name: INTER_IMAGE_AD_UNIT_ID
+    TypeVariable: 3
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: ca-app-pub-2913496970595341/3674427567
+  - Name: BANNER_AD_UNIT_ID_COLLAPSIBLE
+    TypeVariable: 3
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: ca-app-pub-2913496970595341/2253433360
+  - Name: collapsible_ad_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: inter_image_ad_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: time_refresh_native_ads
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 30
+    DefaultValueString: 
+  - Name: open_ad_ingame_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: banner_native_on_off
+    TypeVariable: 0
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: banner_native_refresh_time
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 15
+    DefaultValueString: 
+  - Name: banner_native_size
+    TypeVariable: 1
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0.25
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: banner_native_time_capping
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 180
+    DefaultValueString: 
+  - Name: time_auto_close_normal_banner
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 2
+    DefaultValueString: 
+  - Name: BANNER_NATIVE_AD_UNIT_ID
+    TypeVariable: 3
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: ca-app-pub-2913496970595341/4902373314
+  - Name: level_show_rate
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: list_level_index
+    TypeVariable: 3
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: '[18,14,4,15,13,12,25,7,9,17,20,23,26,28,5,22,24,8,21,19,11,27,8,29,6,3,7,1,10,16]'
+  - Name: mrec_banner_on_off_user_organic
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: mrec_banner_on_off_user_paid
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: time_refresh_mrec_banner
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 30
+    DefaultValueString: 
+  - Name: time_auto_close_mrec_banner
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 6
+    DefaultValueString: 
+  - Name: time_countdown_play_level
+    TypeVariable: 2
+    DefaultValueBoolean: 0
+    DefaultValueDouble: 0
+    DefaultValueLong: 150
+    DefaultValueString: 
+  - Name: is_life_count_enable
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
+  - Name: is_delay_show_button_win_lose
+    TypeVariable: 0
+    DefaultValueBoolean: 1
+    DefaultValueDouble: 0
+    DefaultValueLong: 0
+    DefaultValueString: 
